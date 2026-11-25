@@ -11,7 +11,7 @@ A check takes about 2 minutes.
 
 ## First: get your free Bright Data account
 
-The skill reads live store prices through **Bright Data**, so you need a Bright Data account. It's free to start. Sign up with this link:
+The skill reads live store prices through **Bright Data**, so you need a Bright Data account. It's free to start. Use promo code `thehype50` when you sign up through the link below.
 
 ### 👉 [brightdata.com/thehype](https://brightdata.com/thehype)
 
@@ -25,7 +25,7 @@ The skill reads live store prices through **Bright Data**, so you need a Bright 
 
 ### 1. Get your Bright Data API token
 
-1. Sign up at [brightdata.com/thehype](https://brightdata.com/thehype).
+1. Sign up at [brightdata.com/thehype](https://brightdata.com/thehype) with promo code `thehype50`.
 2. Open [brightdata.com/cp/setting/users](https://brightdata.com/cp/setting/users) and copy your API token. New accounts also get it in the welcome email.
 
 Treat the token like a password: anyone who has it can spend your credits.
